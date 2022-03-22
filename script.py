@@ -1,2 +1,1 @@
-contraseña = 'jt5hjbthn5ejh'
-print('Contraseña: ' + contraseña)
+contraseña: int = 'jt5hjbthn5ejh'
